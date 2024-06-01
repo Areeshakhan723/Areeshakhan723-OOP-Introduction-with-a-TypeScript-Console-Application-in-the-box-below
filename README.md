@@ -1,0 +1,2 @@
+# Areeshakhan723-OOP-Introduction-with-a-TypeScript-Console-Application-in-the-box-below
+ This TypeScript console application demonstrates the basics of object-oriented programming (OOP). It prompts the user to input their name and answer a question to determine their personality type, then displays the result. It showcases inheritance, encapsulation, and user interaction using the readline module.
